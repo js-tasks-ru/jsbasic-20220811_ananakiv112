@@ -5,6 +5,5 @@ function factorial(n) {
   }
   return i;
 }
-alert( factorial(5) ); 
 
 
