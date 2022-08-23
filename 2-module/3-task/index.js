@@ -12,6 +12,8 @@ let calculator = {
     return this.a * this.b;
   },
 };
-
-// НЕ УДАЛЯТЬ СТРОКУ, НУЖНА ДЛЯ ПРОВЕРКИ
-window.calculator = calculator; // делает ваш калькулятор доступным глобально
+  
+  
+  // НЕ УДАЛЯТЬ СТРОКУ, НУЖНА ДЛЯ ПРОВЕРКИ
+  window.calculator = calculator; // делает ваш калькулятор доступным глобально
+  
