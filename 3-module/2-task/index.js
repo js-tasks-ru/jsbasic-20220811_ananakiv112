@@ -1,4 +1,4 @@
 function filterRange(arr, a, b) {
   return arr.filter(item => (a <= item) && (item <= b));
 }
-let filtered = filterRange; 
+let filtered = filterRange;
